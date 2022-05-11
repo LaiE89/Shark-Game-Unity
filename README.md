@@ -1,5 +1,5 @@
 # Shark-Game-Unity
-A Simple Shark Game created using Unity
+A Simple Shark Game created using Unity. Created by Ethan Lai
 
 This game was a difficult race against time. In the first minutes of the challenge, I was merely brainstorming ways to implement the game. I was mainly focusing on ways
 to implement a proper camera, and a clean character controller. I also needed time to model my own models. Once I finished the basics of the game, I decided to implement
@@ -11,4 +11,5 @@ Therefore, children can easily learn the game without any difficulty. I also mad
 
 # Installation
 You can download the game here: https://www.dropbox.com/s/wz35dm7lxy2f6zu/SharkGame.zip?dl=1
+
 Make sure to extract all files in the zip folder, put the files inside another folder, and run the 'Shark Game.exe' file.
