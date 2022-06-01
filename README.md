@@ -12,4 +12,4 @@ Therefore, children can easily learn the game without any difficulty. I also mad
 # Installation
 You can download the game here: https://www.dropbox.com/s/wz35dm7lxy2f6zu/SharkGame.zip?dl=1
 
-Make sure to extract all files in the zip folder, put the files inside another folder, and run the 'Shark Game.exe' file.
+Make sure to extract all files in the zip folder, and run the 'Shark Game.exe' file.
