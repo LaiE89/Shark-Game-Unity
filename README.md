@@ -10,6 +10,6 @@ settings, and enemies that attack the player. Since the demographic was a younge
 Therefore, children can easily learn the game without any difficulty. I also made sure to implement no violence in any parts.
 
 # Installation
-You can download the game here: https://www.dropbox.com/s/wz35dm7lxy2f6zu/SharkGame.zip?dl=1
+You can download the game [here](https://www.dropbox.com/s/bt2mm1t6dt8dnet/SharkGame%20x86.zip?dl=1)
 
 Make sure to extract all files in the zip folder, and run the 'Shark Game.exe' file.
