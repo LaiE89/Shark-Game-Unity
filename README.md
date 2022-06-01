@@ -1,4 +1,4 @@
-# Shark-Game-Unity
+# Shark Game
 A Simple Shark Game created using Unity in 4 hours. Created by Ethan Lai
 ![SharkGameScreenshot](https://user-images.githubusercontent.com/97263413/171320797-8ad4c1c0-c2ce-4be3-b72f-5a518f0d3f49.png)
 
